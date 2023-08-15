@@ -1,5 +1,3 @@
-# discord-form-webhook
-contact form to send information to discord (no-loggin)
 ## Discord Contact:
 this is a contact form written in html and javascript, where website users can contact the website owner without logging into discord, the form will send everything to a discord webhook with all the data provided by the visitor.
 
