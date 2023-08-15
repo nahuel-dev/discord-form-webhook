@@ -7,5 +7,25 @@ this is a contact form written in html and javascript, where website users can c
 
 The design of the form and the page are inspired by the original design of the discord, this to create a real concept of a discord form and that users are familiar with the concept of discord as well.
 
+# Information:
+This form also collects different user information for analytics and to learn more about your visitors. this can be used by different companies or websites to make cases of statistics of their users by discord.
+![image (1)](https://github.com/nahuel-dev/discord-form-webhook/assets/72772633/2af9a1be-2aeb-4363-968f-2f061a926304)
+
+What user information can you collect?:
+- Name
+- Discord username
+- Email address
+- message composed by the user
+- IP Address
+- User Agent
+- Language
+- Browser
+- Operating System
+- GPU Name
+- Date and Time
+- screen resolution
+- device model
+- Cookie ID
+
 ### CSS and HTML
 everything is in one html file, so there is no need to create a separate css or javascript file. Just by uploading the file anywhere on the internet or opening it as an .html file, the form will be available to be used, although you can also separate the code and make a cleaner code. feel free to do it
