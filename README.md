@@ -9,7 +9,8 @@ The design of the form and the page are inspired by the original design of the d
 
 # Information:
 This form also collects different user information for analytics and to learn more about your visitors. this can be used by different companies or websites to make cases of statistics of their users by discord.
-![image (1)](https://github.com/nahuel-dev/discord-form-webhook/assets/72772633/2af9a1be-2aeb-4363-968f-2f061a926304)
+
+![image (2)](https://github.com/nahuel-dev/discord-form-webhook/assets/72772633/25f5f1dd-13cd-49e6-860a-abdab56c82c8)
 
 What user information can you collect?:
 - Name
