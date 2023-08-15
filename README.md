@@ -30,6 +30,7 @@ What user information can you collect?:
 
 #### Cookie ID:
 The cookie ID function was created to track the visitor on the website, once the form is completed. the cookie is automatically saved in the visitor's browser and then the generated user id is sent to the discord.
+
 This can be used to recognize the visitor, it can also be used to recognize the sections of your website that the visitor visits, the visitor can be identified with his cookie generated when he completed the form. this can be useful for analytics.
 
 ### CSS and HTML
