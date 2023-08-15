@@ -36,4 +36,4 @@ The cookie ID function was created to track the visitor on the website, once the
 everything is in one html file, so there is no need to create a separate css or javascript file. Just by uploading the file anywhere on the internet or opening it as an .html file, the form will be available to be used, although you can also separate the code and make a cleaner code. feel free to do it
 
 I also use a bootstrap css for the design, so that the design looks good and in the form of an official discord design the html file also requests a .css file uploaded to the internet by Bootstrap.
-* File: [Bootstrap CSS](https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css)https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css
+* File: [Bootstrap CSS](https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css)
