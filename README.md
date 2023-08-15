@@ -31,7 +31,9 @@ What user information can you collect?:
 #### Cookie ID:
 The cookie ID function was created to track the visitor on the website, once the form is completed. the cookie is automatically saved in the visitor's browser and then the generated user id is sent to the discord.
 
-This can be used to recognize the visitor, it can also be used to recognize the sections of your website that the visitor visits, the visitor can be identified with his cookie generated when he completed the form. this can be useful for analytics.
-
+### 
 ### CSS and HTML
 everything is in one html file, so there is no need to create a separate css or javascript file. Just by uploading the file anywhere on the internet or opening it as an .html file, the form will be available to be used, although you can also separate the code and make a cleaner code. feel free to do it
+
+I also use a bootstrap css for the design, so that the design looks good and in the form of an official discord design the html file also requests a .css file uploaded to the internet by Bootstrap.
+* File: https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css
